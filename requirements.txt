@@ -1,0 +1,11 @@
+gippy~=1.0.1b1
+geojson~=2.3.0
+gbdxtools~=0.15.6
+pygeotile~=1.0.0
+utm~=0.4.2
+dateutils~=0.6.6
+satsearch~=1.0.0b10
+rasterio==1.0rc4
+requests[security]~=2.19.1
+mapboxcli~=0.8.0
+awscli~=1.15.59
